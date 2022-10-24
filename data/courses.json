@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "Learn WIth Me",
+        "photo": "https://shijan.com",
         "description": "Lorem Ipsub",
         "author": "Md Shijan ALi",
         "students": 250,
@@ -11,6 +12,7 @@
     {
         "id": 1,
         "name": "Learn WIth Me",
+        "photo": "https://shijan.com",
         "description": "Lorem Ipsub",
         "author": "Md Shijan ALi",
         "students": 250,
@@ -20,6 +22,7 @@
     {
         "id": 1,
         "name": "Learn WIth Me",
+        "photo": "https://shijan.com",
         "description": "Lorem Ipsub",
         "author": "Md Shijan ALi",
         "students": 250,
@@ -29,6 +32,7 @@
     {
         "id": 1,
         "name": "Learn WIth Me",
+        "photo": "https://shijan.com",
         "description": "Lorem Ipsub",
         "author": "Md Shijan ALi",
         "students": 250,
@@ -38,6 +42,7 @@
     {
         "id": 1,
         "name": "Learn WIth Me",
+        "photo": "https://shijan.com",
         "description": "Lorem Ipsub",
         "author": "Md Shijan ALi",
         "students": 250,
@@ -47,6 +52,7 @@
     {
         "id": 1,
         "name": "Learn WIth Me",
+        "photo": "https://shijan.com",
         "description": "Lorem Ipsub",
         "author": "Md Shijan ALi",
         "students": 250,
