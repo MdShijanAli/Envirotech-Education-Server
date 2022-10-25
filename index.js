@@ -16,6 +16,11 @@ app.get('/courses', (req, res) => {
     res.send(courses);
 })
 
+const blog = require('./data/blog.json');
+app.get('/blog', (req, res) => {
+    res.send(blog);
+})
+
 app.listen(port, () => {
     console.log('Courses Server Running on POrt', port)
 })
