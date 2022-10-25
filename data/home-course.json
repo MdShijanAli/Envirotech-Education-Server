@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Learn Print Designing",
+        "photo": "https://images.pexels.com/photos/191429/pexels-photo-191429.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Print design, a subset of graphic design, is a form of visual communication used to convey information to an audience through intentional aesthetic design printed on a tangible surface, designed to be printed on paper, as opposed to presented on a digital platform.",
+        "author": "Md Shijan ALi",
+        "students": 250,
+        "level": "Beginer",
+        "price": 59
+    },
+    {
+        "id": 2,
+        "name": "Learn Web Designing",
+        "photo": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Web designers plan, create and code internet sites and web pages, many of which combine text with sounds, pictures, graphics and video clips. A web designer is responsible for creating the design and layout of a website or web pages. It and can mean working on a brand new website or updating an already existing site.",
+        "author": "Md Shijan ALi",
+        "students": 150,
+        "level": "Intermidiate",
+        "price": 69
+    },
+    {
+        "id": 3,
+        "name": "Logo/Icons Designing",
+        "photo": "https://images.pexels.com/photos/1337388/pexels-photo-1337388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "A Logo is symbols with a combination of text and images that helps a user or customer identify brands and differentiate between companies. logos are part of our history for many decades. Since the stone age when the first man-made a tool for the first time, he needs recognition. To recognize who made that particular tool and where.        ",
+        "author": "Md Shijan ALi",
+        "students": 100,
+        "level": "Beginer",
+        "price": 39
+    }
+]
