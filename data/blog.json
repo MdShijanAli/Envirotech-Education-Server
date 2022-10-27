@@ -6,6 +6,9 @@
         "description": "Cross-Origin Resource Sharing (CORS) is an HTTP-based security mechanism controlled and enforced by the client (web browser). It allows a service (API) to indicate any origin other than its own from which the client can request resources. It has been designed in response to the same-origin policy (SOP) that restricts how a website (HTML document or JS script) loaded by one origin can interact with a resource from another origin. CORS is used to explicitly allow some cross-origin requests while rejecting others.CORS is implemented primarily in web browsers, but it can also be used in API clients as an option. It's present in all popular web browsers like Google Chrome, Firefox, Opera, and Safari. The standard has been accepted as a W3C Recommendation in January 2014. Based on that, we can assume that it is implemented in all currently available and other than listed web browsers.",
         "author": "Md Shijan ALi",
         "date": "MARCH 21, 2020",
+        "view": 100,
+        "like": 50,
+        "comment": 25,
         "category": "study"
     },
     {
@@ -15,6 +18,9 @@
         "description": "Most apps need to know the identity of a user. Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user's devices.Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.",
         "author": "Md Shijan ALi",
         "date": "MARCH 22, 2020",
+        "view": 120,
+        "like": 30,
+        "comment": 5,
         "category": "Authentication"
     },
     {
@@ -24,6 +30,9 @@
         "description": "Steps for writing public and private routes in React app using React Router When developing a React Application with Authentication, we might require public and private routes. Let's first see what they are?Public Routes Public routes are Log in, SignUp, Forgot Password, Reset Password. In simple words, These routes can be accessed before login into the App.Private Routes Private Routes vary based on the Apps, For example, Dashboard, User Profile, App Settings, Home etc. In simple words, These routes can be accessed only after login.The constraints for Public and Private routes are that Public routes should not be accessed after login and Private routes ",
         "author": "Md Shijan ALi",
         "date": "MARCH 25, 2020",
+        "view": 200,
+        "like": 50,
+        "comment": 25,
         "category": "Technical"
     },
     {
@@ -33,6 +42,9 @@
         "description": "Node.js is an open-source backend javascript runtime environment. It is a used as backend service where javascript works on the server-side of the application. This way javascript is used on both frontend and backend. Node.js runs on chrome v8 engine which converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive.Working of Node.js: Node.js accepts the request from the clients and sends the response, while working with the request node.js handles them with a single thread. To operate I/O operations or requests node.js use the concept of threads. Thread is a sequence of instructions that the server needs to perform. It runs parallel on the server to provide the information to multiple clients. Node.js is an event loop single-threaded language. It can handle concurrent requests with a single thread without blocking it for one request.Node.js basically works on two concept Asynchronous Non-blocking I/O",
         "author": "Md Shijan ALi",
         "date": "MARCH 21, 2020",
+        "view": 100,
+        "like": 70,
+        "comment": 35,
         "category": "Server"
     }
 ]
